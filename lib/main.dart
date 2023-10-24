@@ -71,7 +71,7 @@ class MyHomePage extends StatefulWidget {
               borderRadius: BorderRadius.all(Radius.circular(10))),
           child: const Text(
             'Plant a tree',
-            style: TextStyle(color: Colors.white, fontSize: 22),
+            style: TextStyle(color: Colors.grey, fontSize: 22),
             textAlign: TextAlign.center,
           ),
         ),
